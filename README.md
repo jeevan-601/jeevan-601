@@ -29,7 +29,7 @@ class Jeevanraj:
             "Open Source Contribution Workflows",
         ]
         self.github       = "https://github.com/jeevan-601"
-        self.linkedin     = "https://www.linkedin.com/in/jeevan-raj-"
+        self.linkedin     = "https://www.linkedin.com/in/jeevan-raj-b690b136b/"
         self.fun_fact     = "I debug with print() and I'm proud of it 😄"
 
     def motto(self):
