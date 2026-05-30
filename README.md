@@ -98,13 +98,13 @@ print(me.motto())
 
 ---
 
-## 🐍 Contribution Graph
+## 📅 Contribution Calendar
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jeevan-601/jeevan-601/output/snake.svg" alt="Snake animation" />
-</p>
+<img width="100%" src="https://ghchart.rshah.org/70a5fd/jeevan-601" />
 
-## 💼 Experience
+---
+
+## 🚀 Projects & Contributions
 
 <details>
 <summary><b>🌐 Open Source Enthusiast &nbsp;|&nbsp; Self-driven Developer &nbsp;|&nbsp; 2025 – Present &nbsp;|&nbsp; Remote</b></summary>
