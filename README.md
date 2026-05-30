@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Y%20JEEVANRAJ&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Software%20Developer%20%7C%20Python%20Developer%20%7C%20Open%20Source%20Explorer&descAlignY=62&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Y%20JEEVANRAJ&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Software%20Developer%20%7C%20Python%20Developer%20%7C%20Open%20Source%20Explorer&descAlignY=62&descSize=16" width="100%" />
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -215,4 +215,4 @@ print(me.motto())
   <img src="https://komarev.com/ghpvc/?username=jeevan-601&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" />
