@@ -98,9 +98,9 @@ print(me.motto())
 
 ---
 
-## 📅 Contribution Calendar
+## 💭 Developer Quote
 
-<img width="100%" src="https://ghchart.rshah.org/70a5fd/jeevan-601" />
+<img width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 ---
 
