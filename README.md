@@ -215,4 +215,4 @@ print(me.motto())
   <img src="https://komarev.com/ghpvc/?username=jeevan-601&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&animation=twinkling"/>
