@@ -76,18 +76,20 @@ print(me.motto())
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/jeevan-601">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeevan-601&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/jeevan-601">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevan-601&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
-</div>
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeevan-601&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeevan-601&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeevan-601&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jeevan-601&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ## 🔥 Streak Stats
