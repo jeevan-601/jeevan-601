@@ -98,11 +98,11 @@ print(me.motto())
 
 ---
 
-## 🏆 Trophy Wall
+## 🐍 Contribution Graph
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=jeevan-601&theme=tokyonight&no-frame=true&row=1" />
-
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jeevan-601/jeevan-601/output/snake.svg" alt="Snake animation" />
+</p>
 
 ## 💼 Experience
 
