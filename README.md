@@ -79,6 +79,7 @@ print(me.motto())
 ## 📊 GitHub Stats
 
 <img width="100%" src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeevan-601&theme=tokyonight" />
+
 ---
 
 ## 🔥 Streak Stats
@@ -99,9 +100,7 @@ print(me.motto())
 
 ## 🏆 Trophy Wall
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jeevan-601&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
-</div>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=jeevan-601&theme=tokyonight&no-frame=true&row=1" />
 
 ---
 
