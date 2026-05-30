@@ -28,7 +28,7 @@ class Jeevanraj:
             "Data Science with Pandas & NumPy",
             "Open Source Contribution Workflows",
         ]
-        self.github       = "https://github.com/Flame-Phoneix"
+        self.github       = "https://github.com/jeevan-601"
         self.linkedin     = "https://www.linkedin.com/in/jeevan-raj-"
         self.fun_fact     = "I debug with print() and I'm proud of it 😄"
 
@@ -80,11 +80,11 @@ print(me.motto())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Flame-Phoneix">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Flame-Phoneix&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <a href="https://github.com/jeevan-601">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeevan-601&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
-  <a href="https://github.com/Flame-Phoneix">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flame-Phoneix&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <a href="https://github.com/jeevan-601">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevan-601&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
@@ -93,7 +93,7 @@ print(me.motto())
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Flame-Phoneix&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=jeevan-601&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -101,7 +101,7 @@ print(me.motto())
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Flame-Phoneix&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeevan-601&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 </div>
 
 ---
@@ -109,7 +109,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Flame-Phoneix&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jeevan-601&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
 </div>
 
 ---
@@ -142,9 +142,9 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |---|---|---|
-| 🌐 **[Personal Portfolio](https://github.com/Flame-Phoneix)** | HTML · CSS · JavaScript | Responsive design with dark/light mode, functional contact form, mobile-first layout |
-| 🐍 **[Python Mini Projects](https://github.com/Flame-Phoneix)** | Python | Collection of programs covering core CS concepts — algorithms, data structures, and logic puzzles |
-| 🤝 **[Open Source Contributions](https://github.com/Flame-Phoneix)** | Git · GitHub | Contributed to beginner-friendly repos; practiced PR workflows and collaborative development |
+| 🌐 **[Personal Portfolio](https://github.com/jeevan-601)** | HTML · CSS · JavaScript | Responsive design with dark/light mode, functional contact form, mobile-first layout |
+| 🐍 **[Python Mini Projects](https://github.com/jeevan-601)** | Python | Collection of programs covering core CS concepts — algorithms, data structures, and logic puzzles |
+| 🤝 **[Open Source Contributions](https://github.com/jeevan-601)** | Git · GitHub | Contributed to beginner-friendly repos; practiced PR workflows and collaborative development |
 
 </div>
 
@@ -199,7 +199,7 @@ print(me.motto())
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeevan-raj-)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Flame-Phoneix)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jeevan-601)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/jeevanraj_601)
 [![X](https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/jeevanraj_601)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/jeevan-601)
@@ -212,7 +212,7 @@ print(me.motto())
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Flame-Phoneix&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=jeevan-601&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
